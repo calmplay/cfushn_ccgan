@@ -1,1 +1,1 @@
-# cfushn_ccgan
+用于CcGAN的入门学习。
